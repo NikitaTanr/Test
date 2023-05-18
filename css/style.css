@@ -1,0 +1,37 @@
+body{ 
+	text-align: center;
+	margin-left: 25%;
+  	margin-right: 25%;
+  	margin-top: 0%;
+
+}
+.global{
+	margin-top: 2%;
+	padding-top: 6%;
+	background-color: #B0C4DE;
+	font-size: 2em;
+	font-weight: bold;
+  	border-radius: 5px 90px; 
+}
+
+.light{
+	padding-top: 3%;
+	padding-bottom: 3%;
+	margin-left: 20%;
+	margin-right: 20%;
+	background-color: #DCDCDC;
+	border-radius: 5px 90px; 
+}
+.deep{
+	padding-top: 3%;
+	padding-bottom: 3%;
+	margin-left: 20%;
+	margin-right: 20%;
+	background-color: #A9A9A9;
+	border-radius: 90px; 
+}
+h1{
+	margin: 0px;
+	padding: 0px;
+	font-size: 6em;
+}
